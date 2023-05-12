@@ -11,3 +11,5 @@ In this project we used
 
 
 In this project we had placed 2 IR sensors i.e (one for entry and another of exit) by this we can access the number of visitors were present in the hall so that we can get turn off the lights if no one was there in the hall and we had placed the RFID set up to the inside cabin so by scanning the valid card eligible persons can get into the cabin here it work as security purpose.
+
+this is the working video  of the above project : https://photos.app.goo.gl/h1RtUixm6i9Wo1799
